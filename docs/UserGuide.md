@@ -392,7 +392,7 @@ Finds patients whose names contain any of the given keywords. You can also inclu
 <pre>
 patient find <var>PATIENT_NAME</var>
 patient find [--n <var>PATIENT_NAME</var>] [--p <var>PHONE</var>] [--d <var>DATE_OF_BIRTH</var>] \
-    [--b <var>BLOODTYPE</var>] [--a ...<var>ALLERGIES</var>...]... [--v ...<var>VACCINES</var>...]...
+    [--b <var>BLOODTYPE</var>] [--a <var>ALLERGIES</var>] [--v <var>VACCINES</var>]
 </pre>
 
 ##### Example
